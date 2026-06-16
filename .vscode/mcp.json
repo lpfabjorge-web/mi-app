@@ -1,8 +1,0 @@
-{
-  "servers": {
-    "Sentry": {
-      "url": "https://mcp.sentry.dev/mcp/unsa-4u/mi-app",
-      "type": "http"
-    }
-  }
-}
